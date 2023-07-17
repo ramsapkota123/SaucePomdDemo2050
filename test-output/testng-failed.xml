@@ -5,7 +5,6 @@
     <classes>
       <class name="sauce.SauceTest">
         <methods>
-          <include name="clickCartOnSauceDemo"/>
           <include name="displaySetUp"/>
           <include name="dispalyPaymentGateWay"/>
         </methods>

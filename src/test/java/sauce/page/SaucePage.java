@@ -23,7 +23,7 @@ public class SaucePage {
 	WebElement backpack;
 	
 
-	@FindBy(xpath="//*[@id=\\\"shopping_cart_container\\\"]/a/span")
+	@FindBy(xpath="//*[@id=\"shopping_cart_container\"]/a/span")
 	WebElement cart;
 	
 	@FindBy(id="checkout")
@@ -89,8 +89,7 @@ public class SaucePage {
 	}
    public void displayFinish() {
 	   finishBtn.click();
-	   System.out.println("i am in sauce demo");
-	   System.out.println("hello");
+	   
    }
 
 }
