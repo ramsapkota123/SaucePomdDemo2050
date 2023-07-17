@@ -48,6 +48,7 @@ public class SauceTest {
 		saucepage.FillText("Ram", "Sapkota", "76137");
 		saucepage.displayContinue();
 		saucepage.displayContinue();
+		System.out.println("i amd sauce test java");
 	
 		
 	    	

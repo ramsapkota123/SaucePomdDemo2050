@@ -89,6 +89,8 @@ public class SaucePage {
 	}
    public void displayFinish() {
 	   finishBtn.click();
+	   System.out.println("i am in sauce demo");
+	   System.out.println("hello");
    }
 
 }
